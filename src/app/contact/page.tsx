@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
 
           </h1>
            <p className="text-xl text-gray-300 pb-1 text-center">
-            Have a question or want to contribute? We'd love to hear from you.
+           {` Have a question or want to contribute? We'd love to hear from you.`}
           </p>
           <form className="flex flex-col items-center">
             <div className="md:w-3/4 lg:w-2/3 xl:w-1/2">
